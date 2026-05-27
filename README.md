@@ -89,30 +89,18 @@ Department Prediction
 
 ## Deployment
 
-Deployed this project using Render
+Deployed using Render
 
-
+---
 
 ## Example Complaints
 
- Complaint - Predicted Department 
-
-No electricity in my locality - Electricity 
-Water leakage near road - Water 
-Road damaged due to rain - Road 
-Internet disconnects frequently - Internet 
-Money deducted but payment failed - Banking 
-Attendance portal not working - College 
-
-
-
-## Future Improvements
-
-- Priority prediction
-- Multilingual support
-- Admin dashboard
-- Complaint history tracking
-- Database integration
-- User authentication
-- Analytics dashboard
+| Complaint | Predicted Department |
+|---|---|
+| No electricity in my locality | Electricity |
+| Water leakage near road | Water |
+| Road damaged due to rain | Road |
+| Internet disconnects frequently | Internet |
+| Money deducted but payment failed | Banking |
+| Attendance portal not working | College |
 
