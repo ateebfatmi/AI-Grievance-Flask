@@ -1,0 +1,241 @@
+ticket_id,complaint_text,department,priority,status,word_count,char_count
+GR-1001,Frequent voltage fluctuations are damaging home appliances in sector 12.,Electricity,high,Pending,10,72
+GR-1002,Unauthorized transaction of 25000 rupees from my savings account.,Banking,critical,Pending,9,65
+GR-1003,Broken kerb stones on footpath causing ankle injuries.,Road,medium,Escalated,8,54
+GR-1004,Road sweeping vehicle not coming to our street for past month.,Road,low,Pending,11,62
+GR-1005,"Cheque deposited 10 days ago still not cleared, urgent funds needed.",Banking,high,Escalated,11,68
+GR-1006,Neutral wire fault causing half voltage in entire building.,Electricity,high,Escalated,9,59
+GR-1007,Student grievance redressal cell not functional.,College,high,Pending,6,48
+GR-1008,Bank sending account statements to old address despite address change.,Banking,low,Pending,10,70
+GR-1009,Account joint holder removed without both holders signing.,Banking,critical,Resolved,8,58
+GR-1010,Speed bumps installed without proper markings causing accidents.,Road,high,Pending,8,64
+GR-1011,Request for recycled water connection for garden irrigation.,Water,low,Escalated,8,60
+GR-1012,Power line touching tree branches causing sparks during windy weather.,Electricity,critical,In Progress,10,70
+GR-1013,Complaint about electricity theft in neighborhood causing low voltage.,Electricity,medium,Escalated,9,70
+GR-1014,Hostel warden demanding personal favours from students.,College,critical,Pending,7,55
+GR-1015,"Internet disconnected immediately after bill payment, very frustrating.",Internet,high,Resolved,8,71
+GR-1016,ISP changed plan pricing without 30-day advance notice as promised.,Internet,medium,In Progress,10,67
+GR-1017,Bank staff behaved rudely and refused to help with basic enquiry.,Banking,medium,Pending,11,65
+GR-1018,Electricity connection was disconnected without any prior notice.,Electricity,high,Pending,8,65
+GR-1019,Traffic signal at the main junction not working for 3 days.,Road,high,Escalated,11,59
+GR-1020,ISP promised 100 Mbps but consistently delivering less than 5 Mbps.,Internet,high,Resolved,11,67
+GR-1021,"Water supply cuts off daily at noon exactly, disrupting cooking.",Water,medium,Pending,10,64
+GR-1022,"Scholarship disbursement pending for 4 months, risk of dropping out.",College,critical,Pending,10,68
+GR-1023,Temporary diversion signs removed but permanent road not ready.,Road,high,In Progress,9,63
+GR-1024,Internet goes down every time it rains due to outdoor splice box issue.,Internet,high,Resolved,13,71
+GR-1025,Drain pipe near the mosque overflowing causing public health hazard.,Water,critical,Resolved,10,68
+GR-1026,"Upload speed much lower than advertised, video conferencing affected.",Internet,high,Escalated,9,69
+GR-1027,Transformer in our colony burned out and hasn't been replaced in 5 days.,Electricity,high,In Progress,13,72
+GR-1028,Recurring deposit cancelled prematurely without consent.,Banking,high,In Progress,6,56
+GR-1029,"Electricity board office closed without notice, unable to pay bill.",Electricity,low,Escalated,10,67
+GR-1030,ATM swallowed my card and the machine did not dispense cash.,Banking,high,Pending,11,60
+GR-1031,Disability accommodations not provided despite submission of certificate.,College,critical,In Progress,8,73
+GR-1032,Customer service keeps closing tickets without actually solving issue.,Internet,high,In Progress,9,70
+GR-1033,Water supplied for only 15 minutes a day against promised 2 hours.,Water,high,Escalated,12,66
+GR-1034,Nominee name removed from account without my consent.,Banking,critical,Escalated,8,53
+GR-1035,"Fees paid online not reflecting in college records, threatening detention.",College,high,Escalated,10,74
+GR-1036,Unauthorized parking structures built on government road land.,Road,medium,Escalated,8,62
+GR-1037,"Road resurfacing done only partially, the remaining half is still dangerous.",Road,medium,In Progress,11,76
+GR-1038,No internet service available in our newly developed residential area.,Internet,high,Pending,10,70
+GR-1039,Loan repayment history wrongly reported to CIBIL affecting credit score.,Banking,high,Escalated,10,72
+GR-1040,Toilet facilities in college building broken and unhygienic.,College,high,In Progress,8,60
+GR-1041,Industrial visit fees collected but trip never organized.,College,medium,In Progress,8,57
+GR-1042,Exposed live wires near the playground pose a serious safety threat to children.,Electricity,critical,Pending,13,80
+GR-1043,Library books reserved under my name wrongly marked as damaged.,College,low,Escalated,10,63
+GR-1044,College bus route changed without informing rural students.,College,medium,Pending,8,59
+GR-1045,Bridge on village road is severely cracked and needs inspection.,Road,critical,In Progress,10,64
+GR-1046,"Metering equipment making buzzing sound at night, concerned about fire.",Electricity,high,In Progress,10,71
+GR-1047,Water board team dug road for pipeline but didn't restore it.,Water,medium,In Progress,11,61
+GR-1048,"Water meter not replaced despite multiple requests, billing estimated.",Water,low,Resolved,9,70
+GR-1049,False attendance recorded by professor for days I was present.,College,high,In Progress,10,62
+GR-1050,Bank froze my account without any intimation or legal notice.,Banking,high,In Progress,10,61
+GR-1051,Getting electric shocks from water tap due to earthing issue.,Electricity,critical,In Progress,10,61
+GR-1052,Caste-based discrimination witnessed during classroom assignments.,College,critical,Resolved,6,66
+GR-1053,Monthly data cap reached but ISP not informing before throttling.,Internet,medium,Pending,10,65
+GR-1054,"Water supply pressure extremely low, unable to fill overhead tank.",Water,medium,Pending,10,66
+GR-1055,Borewell in the community area not functioning for 10 days.,Water,medium,Resolved,10,59
+GR-1056,Drinking water supplied has a foul smell and brownish color.,Water,critical,Pending,10,60
+GR-1057,Fixed deposit matured 2 weeks ago but amount not credited to account.,Banking,high,Pending,12,69
+GR-1058,Street name board missing from 5 lanes in the new township.,Road,low,Pending,11,59
+GR-1059,Water connection transferred but old owner still receiving bills.,Water,low,In Progress,9,65
+GR-1060,"Internal marks awarded without taking exam, clear favouritism.",College,critical,Pending,8,62
+GR-1061,"Bank merger caused account number change, direct deposits going missing.",Banking,high,Escalated,10,72
+GR-1062,"Underground pipeline burst near the school, road is waterlogged.",Water,high,In Progress,9,64
+GR-1063,Signal noise in cable line causing packet loss throughout the day.,Internet,high,In Progress,11,66
+GR-1064,Internet working but DNS resolution failing for specific domains.,Internet,medium,Escalated,9,65
+GR-1065,Deceased account holder funds not being released to legal heirs.,Banking,critical,In Progress,10,64
+GR-1066,Sewage overflow on the main road due to blocked drainage.,Water,high,Pending,10,57
+GR-1067,Port forwarding configuration not working despite ISP support calls.,Internet,low,In Progress,9,68
+GR-1068,"Divider broken on the flyover approach road, causing head-on collision risk.",Road,critical,In Progress,11,76
+GR-1069,Water board staff failed to show up for scheduled pipeline repair.,Water,medium,Resolved,11,66
+GR-1070,"UPI transaction failed but money deducted, no refund after 5 days.",Banking,high,In Progress,11,66
+GR-1071,Pension account not getting credited on time for retired employees.,Banking,high,Pending,10,67
+GR-1072,Water bill charged for months when house was empty.,Water,low,Resolved,9,51
+GR-1073,Connection stable but latency so high that gaming is unplayable.,Internet,low,In Progress,10,64
+GR-1074,Illegal speed breaker built by residents causing vehicle damage.,Road,medium,In Progress,9,64
+GR-1075,Placement cell not sharing job openings with final year students.,College,medium,Escalated,10,65
+GR-1076,Pipe corrosion causing rust in drinking water supply.,Water,high,Pending,8,53
+GR-1077,Road contractor changed pipes without restoring road surface.,Road,medium,Resolved,8,61
+GR-1078,Wifi calling feature not working on mobile with home broadband.,Internet,low,Pending,10,63
+GR-1079,"Electricity bill not generated for 3 months, worried about sudden large bill.",Electricity,low,Pending,12,77
+GR-1080,Ragging incident in hostel not acted upon by warden.,College,critical,Escalated,9,52
+GR-1081,Road blocked by sand stored by construction company for months.,Road,medium,Resolved,10,63
+GR-1082,Municipal water supply contains sand particles damaging appliances.,Water,high,Pending,8,67
+GR-1083,ISP blocking access to certain legal websites without explanation.,Internet,high,Pending,9,66
+GR-1084,Water connection disconnected without notice due to billing error.,Water,medium,Resolved,9,66
+GR-1085,"Footpath tiles broken and uneven, elderly people keep tripping.",Road,high,Resolved,9,63
+GR-1086,Road shoulder eroded away completely on the mountain highway.,Road,high,Escalated,9,61
+GR-1087,Road marking lines completely faded on the state highway.,Road,medium,Resolved,9,57
+GR-1088,Power cuts happen every evening during peak hours in our area.,Electricity,medium,Escalated,11,62
+GR-1089,Electricity bill sent to wrong address repeatedly despite corrections.,Electricity,low,Pending,9,70
+GR-1090,"Lab equipment broken for the entire semester, practicals not conducted.",College,high,In Progress,10,71
+GR-1091,Rain water harvesting pit blocked and overflowing into houses.,Water,medium,Resolved,9,62
+GR-1092,Solar panel grid connection application pending for 6 weeks.,Electricity,medium,Resolved,9,60
+GR-1093,"Speed breaker painted over but not visible at night, very dangerous.",Road,high,In Progress,11,68
+GR-1094,"Broadband connection completely down for 6 days, work from home impossible.",Internet,high,In Progress,11,75
+GR-1095,Waterlogged underpass flooding during every rain event.,Road,high,Resolved,7,55
+GR-1096,Passbook printing facility not available at branch for 2 months.,Banking,low,In Progress,10,64
+GR-1097,Practical examination cancelled without rescheduling.,College,high,In Progress,5,53
+GR-1098,Water supply timings changed without any prior notice to residents.,Water,medium,Pending,10,67
+GR-1099,"Chlorine level in supplied water unusually high, causing skin issues.",Water,high,Resolved,10,69
+GR-1100,Degree certificate not issued 2 years after graduation.,College,high,In Progress,8,55
+GR-1101,Anti-ragging committee not constituted as per UGC norms.,College,high,Pending,8,56
+GR-1102,Modem configuration reset by ISP without informing customer.,Internet,medium,In Progress,8,60
+GR-1103,Got a shockingly high electricity bill this month despite normal usage.,Electricity,medium,In Progress,11,71
+GR-1104,"Public water tap left open by the water board team, wastage ongoing.",Water,medium,In Progress,12,68
+GR-1105,Medical room in college has no qualified doctor or medicines.,College,high,Escalated,10,61
+GR-1106,Examination results not declared 3 months after exams.,College,high,Pending,8,54
+GR-1107,No pedestrian crossing near the school despite repeated requests.,Road,high,Resolved,9,65
+GR-1108,"Classroom projector broken, online learning severely hampered.",College,medium,Pending,7,62
+GR-1109,Foreign remittance held for 2 weeks with no reason given.,Banking,high,Pending,10,57
+GR-1110,Sudden disconnection during surgery at home clinic due to power failure.,Electricity,critical,Pending,11,72
+GR-1111,Streaming services buffer constantly despite high-speed plan.,Internet,medium,Resolved,7,61
+GR-1112,Street lighting poles installed but cables not connected.,Road,medium,In Progress,8,57
+GR-1113,OTT subscription bundled with plan not being activated.,Internet,low,Pending,8,55
+GR-1114,Principal demanding donation for issuing no-objection certificate.,College,critical,In Progress,7,66
+GR-1115,"ATM PIN changed without my knowledge, unable to access funds.",Banking,critical,Escalated,10,61
+GR-1116,Internet speed drops to near zero every evening during peak hours.,Internet,high,Pending,11,66
+GR-1117,"Pothole repair done using substandard material, broke again in 2 days.",Road,medium,Escalated,11,70
+GR-1118,"Water meter leaking heavily, causing wastage and flooding the road.",Water,high,In Progress,10,67
+GR-1119,College canteen food quality is extremely poor and unhygienic.,College,medium,Escalated,9,62
+GR-1120,WiFi router provided by ISP overheats and disconnects every hour.,Internet,medium,Escalated,10,65
+GR-1121,Street light near the school has been non-functional for over three weeks.,Electricity,medium,In Progress,12,74
+GR-1122,Student union election interfered with by college administration.,College,high,Escalated,8,65
+GR-1123,"Salary account dormant due to system error, unable to receive salary.",Banking,critical,Escalated,11,69
+GR-1124,Three-phase connection dropping to single phase repeatedly.,Electricity,medium,Escalated,7,59
+GR-1125,Narrow lane widening project stalled for 2 years without reason.,Road,low,Pending,10,64
+GR-1126,Road divider bushes grown to height blocking traffic visibility.,Road,medium,Resolved,9,64
+GR-1127,"Fiber cable cut by road construction team, no repair in 3 days.",Internet,high,Pending,12,63
+GR-1128,Parental controls not working on the home router despite settings.,Internet,low,In Progress,10,66
+GR-1129,"Storm drain choked with debris, area floods every time it rains.",Water,high,In Progress,11,64
+GR-1130,Auto debit mandate not cancelled despite written request.,Banking,medium,Resolved,8,57
+GR-1131,"Overhead bridge low clearance not marked, trucks get stuck weekly.",Road,high,Pending,10,66
+GR-1132,"Flyover expansion joints broken, causing damage to vehicles.",Road,high,In Progress,8,60
+GR-1133,Sexual harassment complaint against faculty not addressed for months.,College,critical,Pending,9,69
+GR-1134,Request for fluoride filter installation in school water supply.,Water,medium,Escalated,9,64
+GR-1135,RTGS transfer amount debited but not received by beneficiary.,Banking,high,In Progress,9,61
+GR-1136,Road caves in slightly after every rain due to poor construction.,Road,high,Escalated,11,65
+GR-1137,ISP corporate helpline has 45+ minute wait times consistently.,Internet,medium,Escalated,9,62
+GR-1138,Roadside trees fallen on pathway blocking pedestrian access.,Road,medium,Pending,8,60
+GR-1139,Water pressure varies wildly between morning and evening supply.,Water,medium,Escalated,9,64
+GR-1140,Semester fee hike of 40% applied without regulatory approval.,College,high,Escalated,9,61
+GR-1141,Application for load increase submitted but pending for 3 months.,Electricity,medium,Resolved,10,65
+GR-1142,Accident-prone T-junction needs a proper traffic island.,Road,high,In Progress,7,56
+GR-1143,Requested earthing certificate for new home but no inspection done.,Electricity,low,Pending,10,67
+GR-1144,"Technician came and damaged indoor wiring, left without fixing.",Internet,high,Pending,9,63
+GR-1145,Loan foreclosure statement not issued despite multiple requests.,Banking,medium,Escalated,8,64
+GR-1146,New electricity connection applied two months ago but not yet installed.,Electricity,low,Pending,11,72
+GR-1147,Cashback offer applied in previous month reversed without explanation.,Banking,medium,Resolved,9,70
+GR-1148,Electricity theft from my meter connection noticed by me.,Electricity,high,Escalated,9,57
+GR-1149,Request for underground cable instead of overhead line for safety.,Electricity,low,Resolved,10,66
+GR-1150,Faulty electricity meter replaced but new meter still reads wrong.,Electricity,medium,Pending,10,66
+GR-1151,Credit card limit reduced without notice affecting my business payments.,Banking,high,In Progress,10,72
+GR-1152,Getting billed for services I never activated or requested.,Internet,medium,Resolved,9,59
+GR-1153,Temporary traffic light installed but not functioning properly.,Road,medium,Escalated,8,63
+GR-1154,Senior citizen account benefits removed without notification.,Banking,medium,Escalated,7,61
+GR-1155,Road painted with wrong markings at the bus bay area.,Road,low,Resolved,10,53
+GR-1156,Sewage water mixing with drinking water pipeline in our street.,Water,critical,Resolved,10,63
+GR-1157,Business account statement has entries that don't match my records.,Banking,high,Escalated,10,67
+GR-1158,Hostel room allotted to another student after I paid fees.,College,high,Pending,10,58
+GR-1159,Road under construction for 8 months without any progress visible.,Road,medium,Resolved,10,66
+GR-1160,"Power outage in our locality since last night, no response from the electricity board helpline.",Electricity,high,Pending,15,95
+GR-1161,Smart meter installation team came but did not complete the work.,Electricity,low,Pending,11,65
+GR-1162,Sewage treatment plant near our area causing unbearable smell.,Water,high,Pending,9,62
+GR-1163,Road roller compaction done improperly causing uneven surface.,Road,medium,Resolved,8,62
+GR-1164,"Bank issued demand draft with wrong name, refuses to correct.",Banking,medium,In Progress,10,61
+GR-1165,Electricity department staff demanded bribe for new connection approval.,Electricity,high,Resolved,9,72
+GR-1166,Power supply restored after complaint but goes off again within minutes.,Electricity,high,In Progress,11,72
+GR-1167,Groundwater contamination reported from nearby factory dumping waste.,Water,critical,Escalated,8,69
+GR-1168,Static IP address assigned to my connection keeps changing.,Internet,medium,Pending,9,59
+GR-1169,Admission cancelled due to clerical error in document verification.,College,critical,In Progress,9,67
+GR-1170,"Overdraft facility applied, bank deducting charges but not providing OD.",Banking,high,Pending,10,72
+GR-1171,"Home loan EMI deducted twice this month, causing overdraft charges.",Banking,high,Resolved,10,67
+GR-1172,Examination hall ticket not issued due to administrative error.,College,critical,Pending,9,63
+GR-1173,Drainage hole on the road left uncovered after maintenance work.,Road,critical,Escalated,10,64
+GR-1174,Water tanker supply stopped without notice during summer.,Water,high,Resolved,8,57
+GR-1175,"Business broadband SLA violated repeatedly, requesting compensation.",Internet,high,In Progress,7,68
+GR-1176,Savings interest rate reduced without notice.,Banking,medium,Pending,6,45
+GR-1177,River water diversion blocking water to downstream villages.,Water,critical,In Progress,8,60
+GR-1178,Low voltage problem affecting water pump not lifting water.,Electricity,medium,Pending,9,59
+GR-1179,Demat account charges being deducted despite closing the account.,Banking,medium,Pending,9,65
+GR-1180,"Overhead wires sagging very low over a busy road, accident-prone.",Electricity,critical,Resolved,10,65
+GR-1181,Power supply interrupted during exam period affecting students badly.,Electricity,high,Pending,9,69
+GR-1182,"Professor absent for 80% of semester, no replacement arranged.",College,high,In Progress,9,62
+GR-1183,Streetlights not working on the entire stretch of the highway bypass.,Electricity,high,Resolved,11,69
+GR-1184,Billing cycle changed without notification leading to confusion.,Electricity,low,In Progress,8,64
+GR-1185,Net banking password reset link not arriving despite multiple attempts.,Banking,medium,Escalated,10,71
+GR-1186,Annual sports fees collected but no sports event conducted.,College,medium,Resolved,9,59
+GR-1187,Promised installation within 7 days but no visit after 3 weeks.,Internet,medium,In Progress,11,63
+GR-1188,"PAN card not updated in bank records, facing TDS deduction issues.",Banking,medium,In Progress,11,66
+GR-1189,WiFi in hostel not working for 3 weeks during exam preparation.,College,medium,Escalated,11,63
+GR-1190,WiFi signal does not cover entire house despite extender installation.,Internet,low,In Progress,10,70
+GR-1191,"Bank branch closed permanently without relocating, nearest ATM 15km away.",Banking,high,In Progress,10,73
+GR-1192,"ISP network outage not communicated, no ETA provided to customers.",Internet,high,Pending,10,66
+GR-1193,"Public fountain running continuously for weeks, massive water waste.",Water,low,In Progress,9,68
+GR-1194,KYC documents submitted 3 times but account still restricted.,Banking,medium,Escalated,9,61
+GR-1195,"Cable running on exterior wall damaged by rodents, needs replacement.",Internet,medium,Resolved,10,69
+GR-1196,"CCTV cameras on road junction not working, affecting safety.",Road,medium,Pending,9,60
+GR-1197,No water supply to our apartment block for the last 48 hours.,Water,high,Resolved,12,61
+GR-1198,"New colony has no water supply line laid, residents depend on tankers.",Water,high,Escalated,12,70
+GR-1199,Construction debris dumped on the service road for months.,Road,medium,Pending,9,58
+GR-1200,"Water pressure regulator faulty, pipes bursting in the building.",Water,high,In Progress,9,64
+GR-1201,"Energy audit requested for our commercial premises last quarter, no response.",Electricity,low,In Progress,11,77
+GR-1202,Encroachment by vendors on footpath forcing pedestrians onto the road.,Road,medium,In Progress,10,70
+GR-1203,"Result withheld despite clearing all dues, last date for further study.",College,critical,In Progress,11,71
+GR-1204,Guest lecture fees collected but speakers never invited.,College,medium,Resolved,8,56
+GR-1205,Video calls disconnect repeatedly during important office meetings.,Internet,high,Pending,8,67
+GR-1206,"Canal water releasing schedule not followed, crops damaged.",Water,critical,In Progress,8,59
+GR-1207,Dedicated leased line for office has been unstable for 2 weeks.,Internet,high,Escalated,11,63
+GR-1208,Female students not allowed to leave hostel after 6 PM unreasonably.,College,high,Pending,11,68
+GR-1209,Circuit breaker trips automatically whenever AC is switched on.,Electricity,medium,In Progress,9,63
+GR-1210,College refusing to provide transfer certificate to student.,College,high,Pending,8,60
+GR-1211,Trial period discount not applied despite written commitment.,Internet,medium,In Progress,8,61
+GR-1212,"Sports ground occupied by construction, no alternative space given.",College,medium,Escalated,9,67
+GR-1213,My electricity meter is showing incorrect readings for the past two months.,Electricity,medium,Resolved,12,75
+GR-1214,Streetlights remain on during daytime causing wastage of electricity.,Electricity,low,Escalated,9,69
+GR-1215,Bank charges applied that are not in the schedule of charges.,Banking,medium,Escalated,11,61
+GR-1216,"Migration certificate not issued, blocking admission elsewhere.",College,high,Pending,7,63
+GR-1217,Damaged guardrail on the mountain road not replaced after accident.,Road,critical,In Progress,10,67
+GR-1218,Flooding in basement due to sewer backflow during heavy rain.,Water,high,Resolved,10,61
+GR-1219,Credit card statement showing transactions I never made.,Banking,critical,Resolved,8,56
+GR-1220,College charging fees for courses not mentioned in prospectus.,College,high,Resolved,9,62
+GR-1221,Transformer capacity insufficient for new apartments in the area.,Electricity,medium,Resolved,9,65
+GR-1222,Night visibility poor on national highway due to no lighting.,Road,high,Escalated,10,61
+GR-1223,"Manholes left open after maintenance work, dangerous for pedestrians.",Water,critical,Resolved,9,69
+GR-1224,Illegal water connection tapping into the main supply line.,Water,high,In Progress,9,59
+GR-1225,Research stipend not released for 6 months for PhD students.,College,high,Escalated,10,60
+GR-1226,Locker rental paid but access denied citing procedural issues.,Banking,high,Pending,9,62
+GR-1227,Insurance policy sold by bank agent is not what was explained to me.,Banking,high,Escalated,13,68
+GR-1228,"New water connection requested 4 months ago, no progress.",Water,low,Escalated,9,57
+GR-1229,Overhead tank cleaning not done for 2 years despite requests.,Water,medium,In Progress,10,61
+GR-1230,Giant pothole near the hospital gate has caused multiple accidents this week.,Road,critical,Escalated,12,77
+GR-1231,Technician visited but fixed only his side without resolving my issue.,Internet,medium,Escalated,11,70
+GR-1232,Fiber to building but last-mile copper causing speed degradation.,Internet,medium,Escalated,9,65
+GR-1233,Repeated CGNAT issues blocking incoming connections for remote work.,Internet,medium,In Progress,9,68
+GR-1234,Education loan application rejected without giving any reason.,Banking,medium,In Progress,8,62
+GR-1235,Newly constructed road already developing cracks after 1 month.,Road,high,Pending,9,63
+GR-1236,Power backup facility at substation not working during grid failure.,Electricity,high,Pending,10,68
+GR-1237,Static route configuration removed by ISP during maintenance.,Internet,medium,Pending,8,61
+GR-1238,Electric pole has been leaning dangerously after the last storm.,Electricity,critical,Pending,10,64
+GR-1239,"Migration from old plan to new plan bungled, lost existing benefits.",Internet,medium,Resolved,11,68
+GR-1240,IPv6 connectivity not working despite ISP claiming to support it.,Internet,low,Pending,10,65
